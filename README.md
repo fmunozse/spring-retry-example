@@ -1,6 +1,6 @@
-"# spring-retry-example" 
+# spring-retry-example
 
-Very basic example to have to play with spring-retry to play with retriable.
+Very basic example  to play with spring-retry to play with retriable.
 
 The goal of test is:
 * To have a REST endpoint that call a method in a @Service. This method represent a call to external system
